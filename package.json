@@ -1,0 +1,10 @@
+{
+  "name": "react-master-class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tian <christian.dkp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
